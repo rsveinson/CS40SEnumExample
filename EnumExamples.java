@@ -66,7 +66,7 @@ enum Element{
 }// end enum Element
 
 public class EnumExamples{
-    public enum Season{Winter, Spring, Summer, Fall};
+    public enum Season{WINTER, SPRING, SUMMER, FALL};
     
     public static void main(String[] args) { 
 
