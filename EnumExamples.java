@@ -77,6 +77,7 @@ public class EnumExamples{
         //c = Colour.Purple;
         //c = "Purple";
         //c = Colour.BLEU;
+        //c = Colour.BLUE;
         
         // get an array of Colour values
         Colour[] colours = Colour.values();

@@ -4,6 +4,7 @@
  */public class CalculatePay
 {
     public static void main(String[] args){
+        //Day[] days = Day.values();
         for (Day d: Day.values())
             System.out.println("$" + calcPay(10.0, 20, d) + " for " + d);
     }
